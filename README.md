@@ -6,4 +6,4 @@ Name: Lasya Vanga ID: 700762893
 We are respected again throughout the world, and that's a great thing.@realDonaldTrump”)
 2. Apply GridSearchCV on the source code provided in the class
 
-Code File - NNDL_ICP6_7007628933.ipynb Document- NNDL-ICP6-700762893.pdf
+Code File - NNDL_ICP6_700762893.ipynb Document- NNDL-ICP6-700762893.pdf
